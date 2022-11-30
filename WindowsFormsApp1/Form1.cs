@@ -56,7 +56,7 @@ namespace WindowsFormsApp1
 
             else
             {
-                MessageBox.Show("GameOver");                
+                MessageBox.Show("Bulamadınız !!! Aradığınız Sayı: " + tahminsayisi);                
             }
             
         }
